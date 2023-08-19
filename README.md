@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11454047&assignment_repo_type=AssignmentRepo)
 # DNS Cache using Hash Table
 
 This README file is for a significant school project that I have worked on. While the project's full codebase isn't included here due to specific requirements, this README serves as an essential guide to understanding the project's objectives, methodology, and outcomes.
